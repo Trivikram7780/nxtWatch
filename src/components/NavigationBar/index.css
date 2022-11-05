@@ -1,0 +1,36 @@
+.buttons-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.nav-head {
+  font-size: larger;
+  padding-top: 2px;
+  padding-left: 20px;
+}
+.selected-icon {
+  font-size: large;
+  color: red;
+}
+.icon {
+  font-size: large;
+}
+.contact-us {
+  font-weight: 500;
+  font-size: medium;
+}
+.media-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.media-img {
+  height: 30px;
+  padding-right: 15px;
+}
+.link {
+  width: 100%;
+  align-self: flex-start;
+  text-decoration: none;
+}

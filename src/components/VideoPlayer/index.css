@@ -1,0 +1,53 @@
+.video-player-route {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.title {
+  font-family: cursive;
+}
+.view-published {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-family: roboto;
+  font-size: small;
+}
+.published {
+  padding-left: 2px;
+}
+.like-btn {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+}
+.like {
+  margin-bottom: 5px;
+}
+.dislike {
+  margin-left: 8px;
+}
+.saved-list {
+  font-size: x-large;
+  padding-bottom: 2px;
+}
+.save-para {
+  font-size: small;
+  line-height: 0px;
+}
+.line {
+  width: 100%;
+}
+.profile-description {
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+}
+.subscriber-count-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.subscriber-count {
+  font-size: x-small;
+}

@@ -1,0 +1,35 @@
+.trend-route {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.fire {
+  font-size: x-large;
+}
+.trending-videos-list {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+}
+.trending-video-item {
+  text-decoration: none;
+}
+.trending-video-thumbnail {
+  width: 25vw;
+  border-radius: 15px;
+}
+.thumbnail-video-description {
+  display: flex;
+  flex-direction: column;
+  padding-left: 15px;
+}
+.trending-title {
+  font-size: x-large;
+  font-weight: 500;
+  font-family: Comic Sans MS;
+}
+.channel-name {
+  line-height: 0px;
+}

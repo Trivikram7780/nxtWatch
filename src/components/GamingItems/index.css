@@ -1,0 +1,16 @@
+.game-thumbnail-img {
+  padding-left: 25px;
+}
+.game-video-route {
+  text-decoration: none;
+}
+.game-info {
+  padding-left: 29px;
+  font-weight: 500;
+  font-size: medium;
+  line-height: 0px;
+}
+.view-count {
+  padding-left: 29px;
+  font-size: small;
+}

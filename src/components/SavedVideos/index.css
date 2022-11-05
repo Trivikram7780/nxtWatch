@@ -1,0 +1,13 @@
+.saved-videos-route {
+  display: flex;
+  flex-direction: row;
+}
+.no-videos {
+  height: 255px;
+}
+.saved-video-container {
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  height: 92vh;
+}

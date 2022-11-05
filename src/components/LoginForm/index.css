@@ -1,0 +1,26 @@
+.user-input {
+  width: 100%;
+  border: 0px;
+  outline: none;
+  background-color: transparent;
+}
+.check-box-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 15px;
+}
+.login-btn {
+  margin-top: 25px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: #3b82f6;
+  border-radius: 3px;
+  border: 0px;
+  color: white;
+  align-self: stretch;
+  cursor: pointer;
+}
+.error-msg {
+  color: red;
+}

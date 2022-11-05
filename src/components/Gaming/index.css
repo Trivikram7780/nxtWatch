@@ -1,0 +1,14 @@
+.gaming-route {
+  display: flex;
+}
+.game-controller {
+  font-size: x-large;
+}
+.gaming-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
